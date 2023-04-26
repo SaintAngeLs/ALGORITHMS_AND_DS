@@ -1,0 +1,11 @@
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab4\lab4_class\lab4\lab4\bin\Debug\lab4.exe.config
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab4\lab4_class\lab4\lab4\bin\Debug\lab4.exe
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab4\lab4_class\lab4\lab4\bin\Debug\lab4.pdb
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab4\lab4_class\lab4\lab4\bin\Debug\Graphs.dll
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab4\lab4_class\lab4\lab4\bin\Debug\TestSet.dll
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab4\lab4_class\lab4\lab4\obj\Debug\lab4.csproj.AssemblyReference.cache
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab4\lab4_class\lab4\lab4\obj\Debug\lab4.csproj.SuggestedBindingRedirects.cache
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab4\lab4_class\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab4\lab4_class\lab4\lab4\obj\Debug\lab4.csproj.CopyComplete
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab4\lab4_class\lab4\lab4\obj\Debug\lab4.exe
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab4\lab4_class\lab4\lab4\obj\Debug\lab4.pdb

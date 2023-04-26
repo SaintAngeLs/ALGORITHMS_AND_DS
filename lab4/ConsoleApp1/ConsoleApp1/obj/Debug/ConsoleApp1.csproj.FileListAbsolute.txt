@@ -1,0 +1,3 @@
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
