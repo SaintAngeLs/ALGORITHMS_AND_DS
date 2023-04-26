@@ -1,0 +1,11 @@
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab9\lab9\bin\Debug\lab9.exe.config
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab9\lab9\bin\Debug\lab9.exe
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab9\lab9\bin\Debug\lab9.pdb
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab9\lab9\bin\Debug\Graphs.dll
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab9\lab9\bin\Debug\TestSet.dll
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab9\lab9\obj\Debug\lab9.csproj.AssemblyReference.cache
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab9\lab9\obj\Debug\lab9.csproj.SuggestedBindingRedirects.cache
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab9\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab9\lab9\obj\Debug\lab9.csproj.CopyComplete
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab9\lab9\obj\Debug\lab9.exe
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab9\lab9\obj\Debug\lab9.pdb

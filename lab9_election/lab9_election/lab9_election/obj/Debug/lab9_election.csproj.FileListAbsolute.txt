@@ -1,0 +1,11 @@
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab9_election\lab9_election\lab9_election\bin\Debug\lab9_election.exe.config
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab9_election\lab9_election\lab9_election\bin\Debug\lab9_election.exe
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab9_election\lab9_election\lab9_election\bin\Debug\lab9_election.pdb
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab9_election\lab9_election\lab9_election\bin\Debug\Graphs.dll
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab9_election\lab9_election\lab9_election\bin\Debug\TestSet.dll
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab9_election\lab9_election\lab9_election\obj\Debug\lab9_election.csproj.AssemblyReference.cache
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab9_election\lab9_election\lab9_election\obj\Debug\lab9_election.csproj.SuggestedBindingRedirects.cache
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab9_election\lab9_election\lab9_election\obj\Debug\lab9_election.csproj.CoreCompileInputs.cache
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab9_election\lab9_election\lab9_election\obj\Debug\lab9_election.csproj.CopyComplete
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab9_election\lab9_election\lab9_election\obj\Debug\lab9_election.exe
+D:\documents\0_semester_4\Algorytmy i Struktury Danych II\Laboratoria\2022\lab9_election\lab9_election\lab9_election\obj\Debug\lab9_election.pdb
